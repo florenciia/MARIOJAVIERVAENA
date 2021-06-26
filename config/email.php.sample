@@ -1,0 +1,19 @@
+<?php
+
+$email = [
+    'from' => [
+        'name' => 'Mario Vaena',
+        'email' => 'consultas@mariovaena.com'
+    ],
+    'to' => [
+        'name' => 'Mario Vaena',
+        'email' => 'mariovaena@gmail.com'
+    ],
+    'auth' => [
+        'username' => 'consultas@mariovaena.com',
+        'password' => ''
+    ],
+    'recaptcha' => [
+        'secret' => ''
+    ]
+];

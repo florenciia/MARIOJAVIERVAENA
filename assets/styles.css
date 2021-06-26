@@ -501,19 +501,6 @@ footer{
   
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.grecaptcha-badge { 
+    visibility: hidden;
+}
